@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.parent{
+    display: flex;
+    font-family: ;
+}
+.orange-color{
+    color: orange;
+
+}
+.anchor-tag{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(tomato, tomato);
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+    height: 60%;
+}
+.foot{
+    background-color: black;
+}
+.last-part{
+    text-align: center;
+}
