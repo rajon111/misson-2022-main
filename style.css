@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -9,7 +10,8 @@ h2{
 }
 .parent{
     display: flex;
-    font-family: ;
+    border-left: 1px solid black;
+    
 }
 .orange-color{
     color: orange;
@@ -26,10 +28,11 @@ h2{
 }
 .half-width{
     width: 50%;
+    margin-left:10% ;
 }
 .half-width img{
-    width: 60%;
-    height: 60%;
+    width: 50%;
+    height: 80%;
 }
 .foot{
     background-color: black;
@@ -37,3 +40,24 @@ h2{
 .last-part{
     text-align: center;
 }
+header{
+    font-size: 20px;
+}
+.second-section{
+    text-align:center;
+    margin-top: 40px;
+}
+.mission{
+    width: 240px;
+    background-color:gainsboro ;
+    border: 1px solid pink;
+    border-radius: 10px;
+}
+.mission img{
+    width: 100%;
+}
+.mission-vission-goal{
+    display: flex;
+    justify-content:space-around;
+}
+
